@@ -21,7 +21,6 @@ fairly trivial, and will be explained below.
 * PDO
 
 ## Usage:
-	<?php
 	// Load the factory class and create an instance.
 	require('Database.php');
 	$db = Database::create('mysql');
@@ -76,7 +75,7 @@ fairly trivial, and will be explained below.
 	var_dump($rowsDeleted);
 
 ## License
-MDW is licensed under the GPL3. Please see the "license.txt" file for details.
+MDW is licensed under the GPL3. Please see the "LICENSE.txt" file for details.
 
 ## Contact
 The GitHub issues page and wiki will be considered the "go to" source for
