@@ -14,7 +14,7 @@ the easiest method to secure your database against looting without forcing you
 to substantially change your existing code.
 
 In this initial release, only MySQL is supported. Adding further databases is
-fairly trivial, and will be explained below.
+fairly trivial, and will be explained in the wiki.
 
 ## Requirements:
 * PHP 5.0 or higher
